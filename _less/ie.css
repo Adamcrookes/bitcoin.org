@@ -229,6 +229,10 @@ body{
 	display:inline;
 	vertical-align:top;
 }
+.downloadbox .magnetlink{
+	zoom:1;
+	display:inline;
+}
 
 .listtable div div{
 	zoom:1;
